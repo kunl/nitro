@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "undocs dev",
+    "build": "undocs build"
+  },
+  "devDependencies": {
+    "shaders": "^2.0.674",
+    "undocs": "^0.4.10"
+  }
+}
